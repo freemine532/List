@@ -1,5 +1,5 @@
 {
-  "name": "Pandaswap Default",
+  "name": "Swap Default List",
   "timestamp": "2021-05-02T01:53:16.282Z",
   "version": {
     "major": 1,
@@ -7,9 +7,9 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png",
+  "logoURI": "https://coinmarketcap.com/favicon.ico",
   "keywords": [
-    "Pandaswap",
+    "CMC-Top-Tokens",
     "bsc"
   ],
   "tokens": [
