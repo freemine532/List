@@ -1,5 +1,5 @@
 {
-  "name": "TalanSwap Default",
+  "name": "Pandaswap Default",
   "timestamp": "2021-05-02T01:53:16.282Z",
   "version": {
     "major": 1,
@@ -7,9 +7,9 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://Talanswap.com",
+  "logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png",
   "keywords": [
-    "TalanSwap",
+    "Pandaswap",
     "bsc"
   ],
   "tokens": [
@@ -629,4 +629,5 @@
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/zcash_32.png"
     }
-    }
+  ]
+}
